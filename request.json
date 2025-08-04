@@ -1,0 +1,9 @@
+{
+  "requests": [
+    {
+      "id": "1",
+      "method": "GET",
+      "url": "/me/drive/root:/{file}:/content"
+    }
+  ]
+}
